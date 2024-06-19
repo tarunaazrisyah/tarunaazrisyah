@@ -1,3 +1,6 @@
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/tarunaazrisyah/tarunaazrisyah/assets/89007614/5caacb74-3db1-4d8b-b56e-c09049dff253)
+
+
 - 👋 Hi, I’m @tarunaazrisyah
 - 👀 I have 4 years experience in software testing
 - 🌱 I’m currently learning more about software testing engineering
